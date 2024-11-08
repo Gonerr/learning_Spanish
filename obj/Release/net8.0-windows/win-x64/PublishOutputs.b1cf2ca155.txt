@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\publish\win-x64\learning_Spanish.pdb
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\publish\win-x64\learning_Spanish.exe

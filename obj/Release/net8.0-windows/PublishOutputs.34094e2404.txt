@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\learning_Spanish.exe
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\learning_Spanish.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\learning_Spanish.deps.json
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\learning_Spanish.runtimeconfig.json
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\learning_Spanish.pdb
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\Newtonsoft.Json.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\Microsoft.Expression.Interactions.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Release\net8.0-windows\app.publish\System.Windows.Interactivity.dll

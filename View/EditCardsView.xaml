@@ -1,0 +1,161 @@
+﻿<Page
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:learning_Spanish.ViewModel"
+        x:Class="learning_Spanish.View.EditCardsView"
+        mc:Ignorable="d"
+        d:DesignHeight="450" d:DesignWidth="980" 
+        Title="EditCardsView" UseLayoutRounding="False" Background="Black">
+    <Page.DataContext>
+        <vm:AllCardsViewModel />
+    </Page.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="../Background.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Rectangle Margin="30,30,30,30" Fill="#FFFCF9DA" RadiusX="34.397" RadiusY="34.397"  Grid.RowSpan="2"/>
+        <StackPanel HorizontalAlignment="Right" Grid.Row="1" VerticalAlignment="Center" Margin="0,0,100,0">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="FontSize" Value="15" />
+                    <Setter Property="Margin" Value="10" />
+                    <Setter Property="Height" Value="40" />
+                    <Setter Property="Background">
+                        <Setter.Value>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFE7C98F" Offset="0"/>
+                                <GradientStop Color="#67F4C81A" Offset="0.987"/>
+                                <GradientStop Color="#9AF3AA27" Offset="0.84"/>
+                                <GradientStop Color="#FFF4730A" Offset="0"/>
+                            </LinearGradientBrush>
+                        </Setter.Value>
+                    </Setter>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border x:Name="border" Background="{TemplateBinding Background}"
+                                      CornerRadius="15">
+                                    <TextBlock Text="{TemplateBinding Content}"
+                                        TextAlignment="Center" TextWrapping="Wrap" FontSize="15" FontFamily="Bahnschrift" 
+                                        Foreground="{TemplateBinding Foreground}" VerticalAlignment="Center" Margin="10"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsDefaulted" Value="true">
+                                        <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="true">
+                                        <Setter Property="Background" TargetName="border" Value="#EAB01E"/>
+                                        <Setter Property="BorderBrush" TargetName="border" Value="#EAB01E"/>
+                                    </Trigger>
+                                    <Trigger Property="IsPressed" Value="true">
+                                        <Setter Property="Background" TargetName="border" Value="#FFAF9585"/>
+                                        <Setter Property="BorderBrush" TargetName="border" Value="#FFAF9585"/>
+                                    </Trigger>
+                                    <Trigger Property="IsEnabled" Value="False">
+                                        <Setter Property="Background" Value="#FFAF8879" />
+                                        <Setter Property="Foreground" Value="#FFFDFAFA" />
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+
+                </Style>
+            </StackPanel.Resources>
+            <!--<Button Command="{Binding ShowAllCommand}"  Content="Выход в главное меню"/>-->
+            <Button Command="{Binding EditCommand}" CommandParameter="{Binding SelectedCard}" Content="Редактировать карточки" Click="EditButton_Click"/>
+            <Button Command="{Binding DelCommand}" CommandParameter="{Binding SelectedCard}" Content="Удалить выбранную карточку" />
+            <Button Command="{Binding AddCommand}" Content="Добавить карточку" />
+            <Button Command="{Binding SaveCommand}" Content="Сохранить"/>
+            <Button Command="{Binding LoadCardsCommand}" Content="Загрузить карточки"/>
+            <Button Click="Exit_button_click" Content="Выйти в главное меню"/>
+        </StackPanel>
+
+        <ListBox ItemsSource="{Binding Cards}" SelectedItem="{Binding SelectedCard}" Background="{x:Null}" 
+                 Foreground="#FFF3AA27" FontSize="36" d:ItemsSource="{d:SampleData ItemCount=5}" HorizontalAlignment="Left" 
+                 VerticalAlignment="Top" Width="276" Margin="414,110,0,0" ScrollViewer.CanContentScroll="True" 
+                 ScrollViewer.VerticalScrollBarVisibility="Auto" Grid.RowSpan="2" Visibility="Hidden">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding SpanishWord}" FontSize="16" FontWeight="Heavy"/>
+                        <TextBlock Text="{Binding Translate}" FontSize="12"  FontStyle="Italic"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="{x:Type ListBoxItem}">
+                    <EventSetter Event="Control.MouseDoubleClick" Handler="ListBoxItem_MouseDoubleClick"/>
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <!--<i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <Command:EventToCommand Command="{Binding EditCommand}" CommandParameter="{Binding SelectedCard}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>-->
+
+        </ListBox>
+
+        <DataGrid HorizontalAlignment="Left" Margin="55,0,0,0" VerticalAlignment="Center" d:ItemsSource="{d:SampleData ItemCount=5}" ItemsSource="{Binding Cards}" 
+          SelectedItem="{Binding SelectedCard}" Grid.Row="1"
+          AutoGenerateColumns="False" BorderBrush="#FFAF7568" Background="#FFFFEFEF" 
+          FontFamily="Bahnschrift" FontSize="18" Foreground="#FFF46201" MaxColumnWidth="300" 
+          MinColumnWidth="30" HorizontalGridLinesBrush="#FFB1B1B1" 
+          VerticalGridLinesBrush="#FFA59D9D"
+          RenderTransformOrigin="0.5,0.5">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.263"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.995"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding id}" Foreground="#FFF46201" MaxWidth="40" />
+                <DataGridTextColumn Header="Слово на испанском" Binding="{Binding SpanishWord}" />
+                <DataGridTextColumn Header="Перевод" Binding="{Binding Translate}" />
+                <DataGridTextColumn Header="Ответы" Binding="{Binding maybeTranslateAsString}" />
+            </DataGrid.Columns>
+
+
+            <!--<DataGrid.Style>
+                <Style TargetType="DataGrid">
+                    <Setter Property="Visibility" Value="Collapsed" />
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsNewCardRowVisible}" Value="True">
+                            <Setter Property="Visibility" Value="Visible" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.Style>-->
+        </DataGrid>
+        <!--<DataGrid HorizontalAlignment="Left" Height="323" Margin="55,0,0,0" VerticalAlignment="Center" 
+                  Width="434" d:ItemsSource="{d:SampleData ItemCount=5}" ItemsSource="{Binding Cards}" SelectedItem="{Binding SelectedCard}" Grid.Row="1"
+                  AutoGenerateColumns="False" BorderBrush="#FFAF7568" Background="#FFFFEFEF" FontFamily="Bahnschrift" FontSize="18" Foreground="#FFF46201" MaxColumnWidth="180" MinColumnWidth="30" HorizontalGridLinesBrush="#FFB1B1B1" VerticalGridLinesBrush="#FFA59D9D">
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <StackPanel Visibility="{Binding DataContext.IsNewCardRowVisible, RelativeSource={RelativeSource AncestorType=Window}, Converter={StaticResource BooleanToVisibilityConverter}}">
+                    </StackPanel>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding id}" Foreground="#FFF46201" MaxWidth="40" />
+                <DataGridTextColumn Header="Слово на испанском" Binding="{Binding SpanishWord}" />
+                <DataGridTextColumn Header="Перевод" Binding="{Binding Translate}" />
+            </DataGrid.Columns>
+        </DataGrid>-->
+
+    </Grid>
+
+</Page>

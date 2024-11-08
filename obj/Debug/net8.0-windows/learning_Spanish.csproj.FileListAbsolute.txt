@@ -1,0 +1,146 @@
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.exe
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.deps.json
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.runtimeconfig.json
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.pdb
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.cache
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.lref
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.g.resources
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfo.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\refint\learning_Spanish.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.pdb
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.genruntimeconfig.cache
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\ref\learning_Spanish.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.g.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.baml
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning.593186BB.Up2Date
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.g.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.baml
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.g.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.baml
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.g.cs
+C:\Users\User\Desktop\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.baml
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.exe
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.deps.json
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.runtimeconfig.json
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.dll
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.pdb
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+D:\6 семестр\ТООП\learning_Spanish\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.AssemblyReference.cache
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.g.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.g.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.g.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.g.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\App.g.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.cache
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.lref
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.baml
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.baml
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.baml
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.baml
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.baml
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.g.resources
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfoInputs.cache
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfo.cs
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.CoreCompileInputs.cache
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning.593186BB.Up2Date
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.dll
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\refint\learning_Spanish.dll
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.pdb
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.genruntimeconfig.cache
+D:\6 семестр\ТООП\learning_Spanish\obj\Debug\net8.0-windows\ref\learning_Spanish.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.cache
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.lref
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\refint\learning_Spanish.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.pdb
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.exe
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.deps.json
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.runtimeconfig.json
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.pdb
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.baml
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.baml
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.baml
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.baml
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.g.resources
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfo.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.sourcelink.json
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning.593186BB.Up2Date
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.genruntimeconfig.cache
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\ref\learning_Spanish.dll
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\NavigationWindow.g.cs
+C:\Users\User\Desktop\7 семестр\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\NavigationWindow.baml
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.exe
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.deps.json
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.runtimeconfig.json
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\learning_Spanish.pdb
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\NavigationWindow.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.cache
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish_MarkupCompile.lref
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\CardView.baml
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\EditCardsView.baml
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\NavigationWindow.baml
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\StartCards.baml
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\View\Statistic.baml
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.g.resources
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.AssemblyInfo.cs
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.sourcelink.json
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning.593186BB.Up2Date
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\refint\learning_Spanish.dll
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.pdb
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\learning_Spanish.genruntimeconfig.cache
+C:\Users\User\Desktop\7sem\Инфобез\learning_Spanish\obj\Debug\net8.0-windows\ref\learning_Spanish.dll
